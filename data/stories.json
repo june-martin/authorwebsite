@@ -2,6 +2,42 @@
   "empty_message": "Published stories will be listed here. New fiction goes up on Patreon first.",
   "stories": [
     {
+      "title": "As Above, So Below",
+      "venue": "Typebar Magazine",
+      "year": "2026",
+      "url": "https://www.typebarmagazine.com/as-above-so-below/"
+    },
+    {
+      "title": "She's Still Here?",
+      "venue": "Cleaver Magazine, issue 53",
+      "year": "2026",
+      "url": "https://www.cleavermagazine.com/shes-still-here-by-june-martin/"
+    },
+    {
+      "title": "Dating After the Death of God",
+      "venue": "hyphen punk, issue 12",
+      "year": "2024",
+      "url": "https://hyphenpunk.com/issues/issue-12/dating-after-the-death-of-god/"
+    },
+    {
+      "title": "An Afternoon Wedding",
+      "venue": "JAKE",
+      "year": "2023",
+      "url": "https://jakethemag.com/an-afternoon-wedding/"
+    },
+    {
+      "title": "Endless Violence at APlusAtHomeDialysis.com",
+      "venue": "X-R-A-Y",
+      "year": "2022",
+      "url": "https://xraylitmag.com/endless-violence-at-aplusathomedialysis-com-by-june-martin/fiction/"
+    },
+    {
+      "title": "My Beautiful Father",
+      "venue": "Mr. Bullbull",
+      "year": "",
+      "url": "https://mrbullbull.com/newbull/fiction/my-beautiful-father/"
+    },
+    {
       "hidden": true,
       "title": "Example story title",
       "venue": "Magazine name",
