@@ -1,0 +1,14 @@
+{
+  "empty_message": "Nothing on the calendar yet. Text Change, my trans literary reading series in San Francisco, announces its next night on Bluesky and Instagram.",
+  "events": [
+    {
+      "hidden": true,
+      "date": "2027-01-21",
+      "time": "6:30–8pm",
+      "title": "Text Change reading series",
+      "place": "Venue TBA, San Francisco",
+      "url": "",
+      "note": "Example entry. Change \"hidden\" to false and fill in the details to show it."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "empty_message": "Published stories will be listed here. New fiction goes up on Patreon first.",
+  "stories": [
+    {
+      "hidden": true,
+      "title": "Example story title",
+      "venue": "Magazine name",
+      "year": "2026",
+      "url": "https://example.com/link-to-story",
+      "note": "Example entry. Change \"hidden\" to false and fill in the details to show it."
+    }
+  ]
+}
